@@ -5,3 +5,4 @@ Shield by Shield
 Side by Side
 We're marching into destiny
 --------------------------------
+The task is to add data to the already created commit.
